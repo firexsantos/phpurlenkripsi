@@ -1,5 +1,5 @@
-# phpurlenkripsi
-Enkripsi Variable PHP
+# Enkripsi URL PHP
+PHP URL Encryption - Data Encryption Function with PHP which is very URL Friendly. Suitable for PHP Native or using the CodeIgniter 3 Framework.
 <br>
 <br>
 <h2>How to use?</h2>
